@@ -1,5 +1,9 @@
 # Generate Email Template Notebook
 
+## Table of Contents
+
+- [Prerequisites](https://github.com/zannelyr/email-genai/edit/main/README.md#prerequisites)
+
 This notebook automates the process of:
 1. Downloading a JSON template and associated images from an Azure ML datastore.
 2. Running the JSON and images through Azure Cognitive Services to analyze image features.
