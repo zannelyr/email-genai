@@ -1,0 +1,271 @@
+{
+  "email_template": {
+    "template_id": "trailnest_launch_1",
+    "type": "product_launch",
+    "layout_style": {
+      "border_padding": "1in",
+      "background_color": "white"
+    },
+    "sections": {
+      "header": {
+        "logo_image": {
+          "logo_description": "The TrailNest logo features a stylized mountain range above a bold, clean wordmark that reads 'TrailNest'. The typography uses a modern sans-serif font with slightly rounded corners, evoking both rugged durability and approachability. The 'A' in 'Trail' is shaped like a minimalist tent, while the 'N' in 'Nest' subtly resembles a winding trail. The color palette uses a deep forest green (#2E4D2C) and a complementary sky blue (#1C9CDC), reinforcing the brand's outdoor adventure theme.",
+          "position": "top-left",
+          "dimensions": {
+            "percentage": "33%"
+          },
+          "metadata": {
+            "brand": "TrailNest",
+            "logo_type": "Wordmark + Symbol",
+            "primary_colors": {
+              "forest_green": "#2E4D2C",
+              "sky_blue": "#1C9CDC"
+            },
+            "symbol_integration": {
+              "tent_A": "A in 'Trail' resembles a pitched tent",
+              "trail_N": "N in 'Nest' mimics a curving trail"
+            },
+            "style": "Minimalist, Nature-Inspired",
+            "font": "Custom Rounded Sans-Serif",
+            "use_case": "Product packaging, email headers, social media, outdoor signage"
+          },
+          "tags": [
+            "TrailNest",
+            "Outdoor Branding",
+            "Camping Logo",
+            "Nature-Inspired",
+            "Minimalist Design",
+            "Tent Icon",
+            "Trail Symbol",
+            "Forest Green",
+            "Logo Design",
+            "Wordmark",
+            "Outdoor Lifestyle",
+            "Hiking Brand",
+            "Sustainable Aesthetic"
+          ]
+        }
+      },
+      "announcement_strip": {
+        "text": "Explore the new TrailNest Spring 2025 Gear Lineup!",
+        "background_color": "navy blue",
+        "text_color": "white",
+        "alignment": "left"
+      },
+      "hero_section": {
+        "hero_image": {
+          "hero_description": "A hero image showing a scenic mountain backdrop with a glowing TrailNest Horizon 6 Tent set up at golden hour. Next to the tent, a hiker adjusts a TrailNest NovaBeam 400 camping lantern, casting soft light on the surrounding gear. Above the scene is bold text reading 'Spring 2025 Gear Drop' with a glowing compass icon beside it.",
+          "metadata": {
+            "headline": "Spring 2025 Gear Drop",
+            "featured_products": ["Horizon 6 Tent", "NovaBeam 400 Lantern"],
+            "environment": "Mountain campsite at dusk",
+            "lighting": "Golden hour + ambient lantern light",
+            "brand": "TrailNest",
+            "theme": "New gear launch",
+            "dimensions": {
+              "percentage": "95%"
+            }
+          },
+          "tags": [
+            "Camping",
+            "Tent",
+            "Lantern",
+            "Gear Drop",
+            "Hiking",
+            "TrailNest",
+            "Spring Collection",
+            "Outdoor Gear"
+          ]
+        }
+      },
+      "pitch_section": {
+        "title": "Camp Smarter, Travel Farther",
+        "pitch": "Our all-new Horizon 6 Tent and NovaBeam 400 Lantern were designed for reliability, comfort, and adventure. Whether you're venturing solo or setting up a base for the crew, TrailNest gear has you covered.",
+        "qr_image": {
+          "qrcode_description": "A green QR code with the letters 'FPO' overlaid in bold black text in the center. 'FPO' stands for 'For Placement Only', indicating that this is a placeholder image intended to represent a QR code location in design or layout drafts.",
+          "position": "center",
+          "metadata": {
+            "type": "Gear Code code placeholder",
+            "text_overlay": "FPO",
+            "purpose": "Mockup or design placeholder",
+            "color_scheme": "Green and black",
+            "dimensions": {
+              "percentage": "10%"
+            }
+          },
+          "tags": [
+            "QR Code",
+            "FPO",
+            "Placeholder",
+            "Design Element",
+            "Mockup",
+            "Green QR Code",
+            "UI Design",
+            "UX Placeholder",
+            "Scan Code"
+          ]
+        }
+      },
+      "promotion_section": {
+        "banner_image": {
+          "banner_description": "A promotional banner with a forest green background. On the left, text reads 'Free Shipping' in bold white. On the right, smaller text in light green says 'On all new TrailNest gear orders through May 15'.",
+          "metadata": {
+            "offer": "Free Shipping",
+            "condition": "On all orders through May 15",
+            "purpose": "New gear launch promotion",
+            "text_colors": {
+              "main_offer": "White",
+              "condition": "Light green"
+            },
+            "background_color": "Forest green",
+            "dimensions": {
+              "percentage": "100%"
+            }
+          },
+          "tags": [
+            "Free Shipping",
+            "Spring Gear",
+            "Promo",
+            "Camping",
+            "TrailNest",
+            "Outdoor Gear Launch",
+            "Limited Time"
+          ]
+        }
+      },
+      "product_section": {
+        "title": "Meet the TrailNest Spring Essentials",
+        "rows": [
+          {
+            "columns": [
+              {
+                "image": {
+                  "image_description": "A close-up photo of the Horizon 6 Tent pitched in alpine terrain, featuring its lightweight frame, dual vestibules, and mesh panels for ventilation.",
+                  "metadata": {
+                    "product": "Horizon 6 Tent",
+                    "features": [
+                      "Dual vestibule",
+                      "QuickPitch frame",
+                      "All-season weatherproofing"
+                    ],
+                    "environment": "Alpine terrain",
+                    "dimensions": {
+                      "percentage": "45%"
+                    }
+                  },
+                  "tags": [
+                    "Camping Tent",
+                    "Horizon 6",
+                    "TrailNest",
+                    "Alpine",
+                    "Lightweight Gear",
+                    "Spring Launch"
+                  ]
+                },
+                "title": "Horizon 6 Tent",
+                "paragraph_text": "A spacious, all-weather tent designed for comfort and rapid setup\u2014built to handle elevation and sudden weather shifts with ease."
+              },
+              {
+                "image": {
+                  "image_description": "A product shot of the NovaBeam 400 camping lantern on a camp table, glowing beside a trail map and metal cup at dusk.",
+                  "metadata": {
+                    "product": "NovaBeam 400 Lantern",
+                    "features": [
+                      "400 lumen output",
+                      "Rechargeable",
+                      "USB backup charger"
+                    ],
+                    "environment": "Campground table at dusk",
+                    "dimensions": {
+                      "percentage": "45%"
+                    }
+                  },
+                  "tags": [
+                    "Camping Light",
+                    "Lantern",
+                    "Rechargeable",
+                    "Outdoor Gear",
+                    "TrailNest",
+                    "Spring 2025"
+                  ]
+                },
+                "title": "NovaBeam 400 Lantern",
+                "paragraph_text": "Brighten your nights with our compact lantern featuring a USB charger and long-lasting light\u2014your campfire alternative."
+              }
+            ]
+          }
+        ]
+      },
+      "qr_section": {
+        "qr_image": {
+          "qrcode_description": "A green QR code with the letters 'FPO' overlaid in bold black text in the center. 'FPO' stands for 'For Placement Only', indicating that this is a placeholder image intended to represent a QR code location in design or layout drafts.",
+          "position": "center",
+          "metadata": {
+            "type": "Gear Code code placeholder",
+            "text_overlay": "FPO",
+            "purpose": "Mockup or design placeholder",
+            "color_scheme": "Green and black",
+            "dimensions": {
+              "percentage": "10%"
+            }
+          },
+          "tags": [
+            "QR Code",
+            "FPO",
+            "Placeholder",
+            "Design Element",
+            "Mockup",
+            "Green QR Code",
+            "UI Design",
+            "UX Placeholder",
+            "Scan Code"
+          ]
+        }
+      },
+      "terms_section": {
+        "font_size": "small",
+        "paragraph_text": "Terms and Conditions for TrailNest SafeTrack In-Gear Adventure Kit: This is a limited time offer. To receive the $15 TrailNest credit you must (1) be a TrailNest+ member ; (2) place your first qualifying In-Gear Adventure Kit Delivery by 7/23/2025. Promotional credit expires at 11:59 p.m. (PT) August 1st, 2025. See http://www.trailnest.ca/gc-legal for complete terms and conditions."
+      },
+      "footer_section": {
+        "row": [
+          {
+            "column": {
+              "type": "text",
+              "title": "In-Gear Adventure Kit",
+              "button_text": "Learn More",
+              "dimensions": {
+                "percentage": "33%"
+              }
+            }
+          },
+          {
+            "column": {
+              "type": "text",
+              "title": "Stay Connected",
+              "social_links": ["Facebook", "X", "Instagram"],
+              "dimensions": {
+                "percentage": "33%"
+              }
+            }
+          },
+          {
+            "column": {
+              "type": "text",
+              "title": "Support + FAQs",
+              "button_text": "Get Help",
+              "dimensions": {
+                "percentage": "33%"
+              }
+            }
+          }
+        ],
+        "legal_section": {
+          "type": "text",
+          "text": "\u00a92024 TrailNest Gear and the TrailNest Gear logo are trademarks, service marks, and/or registered trademarks of TrailNest. All rights reserved.",
+          "address": "TrailNest, 1250 Mountain Drive, Oak Tree, CO 46896, US",
+          "links": ["TRAILNEST.COM", "PRIVACY", "UNSUBSCRIBE"]
+        }
+      }
+    }
+  }
+}
